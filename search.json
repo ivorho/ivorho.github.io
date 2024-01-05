@@ -11,6 +11,13 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "I am a freshman in the Computational Biology in the Florida States University. I love doing research and enjoy exploring new things in the lab and anything related to Biology, medicine and data science. I hope I will help discover new innovative ideas to help others. Go Seminoles!"
+    "text": "I am a freshman in the Computational Biology in the Florida States University. I love doing research and enjoy exploring new things in the lab and anything related to Biology, medicine and data science. When not in lab, I will play ping-ping and watch football with my friends. I hope I will help discover new innovative ideas to help others. Go Seminoles!"
+  },
+  {
+    "objectID": "how to start research.html",
+    "href": "how to start research.html",
+    "title": "Ivor Ho",
+    "section": "",
+    "text": "Literature review\n\nIV –> DV\nIV Causes DV\nE.g.\nEducation makes one earn more money.\nIV = Education DV = How much one earns = income\nEducation –> income\n\nHypothesis/Hypotheses\n\nHypothesis is a statement giving the relationship between independent variable(s) and dependent variable(s).\n\nData and Methods:\n\nData: How to collect data, how to process data, e.g. lab experiments, existing records, survey, big data methods such as social media scraping, web data\nMethods: How to model the data, e.g. regression, t-test, etc.\n\nTakeaways\n\nConclusion, what is learned from this, what is not, why?"
   }
 ]
