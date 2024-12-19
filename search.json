@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Ivor Ho",
     "section": "",
-    "text": "Computational Biology major\nEducation: Florida State University (Starting 2023 Fall)\nCV"
+    "text": "Major: Computational Biology\nEducation: Florida State University (Expecting 2027)\nCV"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "I am a freshman in the Computational Biology in the Florida States University. I love doing research and enjoy exploring new things in the lab and anything related to Biology, medicine and data science. When not in lab, I will play ping-ping and watch football with my friends. I hope I will help discover new innovative ideas to help others. Go Seminoles!"
+    "text": "I am gratefully stepping into Sophomore years in the Computational Biology in the Florida States University. I love doing research and enjoy exploring new things in the lab and anything related to Biology, medicine and data science. When not in lab, I play golf, ping-ping and watch football with my friends. I hope I will help discover new innovative ideas to help others. Go Seminoles!"
   },
   {
     "objectID": "how to start research.html",
@@ -19,5 +19,12 @@
     "title": "Ivor Ho",
     "section": "",
     "text": "Literature review\n\nIV –> DV\nIV Causes DV\nE.g.\nEducation makes one earn more money.\nIV = Education DV = How much one earns = income\nEducation –> income\n\nHypothesis/Hypotheses\n\nHypothesis is a statement giving the relationship between independent variable(s) and dependent variable(s).\n\nData and Methods:\n\nData: How to collect data, how to process data, e.g. lab experiments, existing records, survey, big data methods such as social media scraping, web data\nMethods: How to model the data, e.g. regression, t-test, etc.\n\nTakeaways\n\nConclusion, what is learned from this, what is not, why?"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Posters\n\n\n\nPresentations\nModeling Neural Circuits to Understand Incipient Speciation Part 2: Quantifying the Potential for Cryptic Evolution, Ivor Ho and Alan R. Lemmon"
   }
 ]
