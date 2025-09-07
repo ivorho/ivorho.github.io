@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ivor Ho",
+    "section": "",
+    "text": "Major: Computational Biology\nEducation: Florida State University (Expecting 2027)\nCV"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am gratefully stepping into Sophomore years in the Computational Biology in the Florida States University. I love doing research and enjoy exploring new things in the lab and anything related to Biology, medicine and data science. When not in lab, I play golf, ping-ping and watch football with my friends. I hope I will help discover new innovative ideas to help others. Go Seminoles!"
+  },
+  {
+    "objectID": "how to start research.html",
+    "href": "how to start research.html",
+    "title": "Ivor Ho",
+    "section": "",
+    "text": "Literature review\n\nIV –> DV\nIV Causes DV\nE.g.\nEducation makes one earn more money.\nIV = Education DV = How much one earns = income\nEducation –> income\n\nHypothesis/Hypotheses\n\nHypothesis is a statement giving the relationship between independent variable(s) and dependent variable(s).\n\nData and Methods:\n\nData: How to collect data, how to process data, e.g. lab experiments, existing records, survey, big data methods such as social media scraping, web data\nMethods: How to model the data, e.g. regression, t-test, etc.\n\nTakeaways\n\nConclusion, what is learned from this, what is not, why?"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "2025 MD Anderson Cancer Center, Houston, TX\n\n\n\nDr. Ken Chen, me and Dr. Vakul Mohanty at MD Anderson Cancer CPRIT CURE Program Center\n\n\n\n\n\n\nHo, Ivor, Ken Chen and Mohanty (2025) Integrating molecular signature databases to holistically reveal gene signaling events\n\n\n2024 Baylor Medical Center, Houston, TX\n\n\n\nDr. Gad Shaulsky, me, Dr. Mariko Kurasawa and Miss Iana Angelo Borges at Baylor College of Medicine Shaulsky Lab\n\n\n\nHo, Ivor, Gad Shaulsky and Mariko Kurasawa (2024) Exploring the expression of chromoproteins in Dictyostelium discoideum\n\n\nFlorida State University, Tallahassee, FL\n\n\n\nPresenting to FSU Chair of Department of Scientific Computing Dr. Peter Beerli\n\n\n\n\n\n\nPresenting first poster\n\n\nWeintraub, Courtney, Ivor Ho, and Alan R. Lemmon (2023) Modeling Neural Circuits to Understand Reproductive Isolation and Cryptic Evolution\n\n\n\nReceived Cx24 Certificate!\n\n\nHo, Ivor and Alan R. Lemmon (2023) Modeling Neural Circuits to Understand Incipient Speciation Part 2: Quantifying the Potential for Cryptic Evolution"
+  }
+]
